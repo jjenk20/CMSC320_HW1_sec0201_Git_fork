@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to commerce. Patterns of consumer habits can be extracted by using data science with purchasing patterns.
